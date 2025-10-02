@@ -21,7 +21,7 @@ development threads, even with the support of GitHub version control.
 It is intended to complete enough of the Ahnen Chart app development, during Hactoberfest (October) 2025, 
 so that it can be added to the standard set of WikiTree chart tools for testing and comment by WikiTree members. 
 
-The following analyses absolute file sizes to help identify the main development path:
+The following analyses absolute file sizes in the ._2022 folder, to help identify the main development path:
 
 53,743 ahnenChart.js _SAVED Aka Q3 ?
 63,879 ahnenChart.js Aka R7b ?
